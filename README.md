@@ -2,7 +2,7 @@
 
 
 
-## Requirements
+## 요구 사항
 
 * Python 3.6
 
@@ -20,6 +20,20 @@ pip install webdriver-manager
 ```
 
 ## 사용 방법
+
+* text crawling
+
+```
+python new_crawling.py
+```
+
+* Image download
+
+```
+python Image_Crawling.py
+```
+
+
 
 
  
